@@ -1,0 +1,24 @@
+h3{
+	color: green;
+}
+h2{
+	background-color: yellow
+}
+.head2{
+		color: green
+}
+.big{
+		font-size: 40px;
+}
+#head3{
+	color: red;
+}
+#head4{
+	background-color: green;
+	color: yellow;
+}
+
+
+p{
+	font-size: 30px;
+}
